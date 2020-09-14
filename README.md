@@ -1,5 +1,5 @@
 
-<span style="color:white"><span style="font-family:Papyrus; font-size:12em; color:white;">Hello,
+<span style="color:white"><span style="font-family:Arial; font-size:12em; color:white;">Hello,
   
 Welcome to Joanne's Portfolio
 
