@@ -1,10 +1,10 @@
 
-<span style="color:white">Hello,
-## Welcome to Joanne's Portfolio
+<span style="color:white"><span style="font-family:Papyrus; font-size:12em; color:white;">Hello,
+Welcome to Joanne's Portfolio
 
-### • View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
+• View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
 
-### Sample Work</span>
+Sample Work</span></span>
 
 <img src="https://raw.githubusercontent.com/mymasterfol/mymasterfol.github.io/master/LitesOut-Wireframes.png" alt ="Wireframing" width="773" height="495">
 
