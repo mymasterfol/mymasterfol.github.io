@@ -3,6 +3,8 @@
 
 View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)!
 
+![Image of Logo1](https://mymasterfol.github.io/images/logo1.png)
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
