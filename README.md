@@ -5,7 +5,7 @@ Welcome to Joanne's Portfolio
 
 • View [Resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
 
-Sample Work</span>
+Sample Work
 
 <img src="https://raw.githubusercontent.com/mymasterfol/mymasterfol.github.io/master/LitesOut-Wireframes.png" alt ="Wireframing" width="773" height="495">
 
