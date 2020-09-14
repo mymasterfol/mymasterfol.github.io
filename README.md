@@ -3,7 +3,7 @@
   
 Welcome to Joanne's Portfolio
 
-• View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
+• View [Resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
 
 Sample Work</span>
 
