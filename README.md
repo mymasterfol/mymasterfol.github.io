@@ -3,7 +3,7 @@
 
 View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)!
 
-![Logo](https://mymasterfol.github.io/master/Logo1.png)
+<img src="https://raw.githubusercontent.com/mymasterfol/mymasterfol.github.io/master/Logo1.png" alt="First Logo" width="375" height="812">
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
