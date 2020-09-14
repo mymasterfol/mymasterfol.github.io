@@ -1,9 +1,9 @@
-### Hello,
-### Welcome to Joanne's Portfolio
+## Hello,
+## Welcome to Joanne's Portfolio
 
-## • View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
+### • View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
 
-### <span style="color:purple">Sample Work</span>
+### <span style="color:indigo">Sample Work</span>
 
 <img src="https://raw.githubusercontent.com/mymasterfol/mymasterfol.github.io/master/LitesOut-Wireframes.png" alt ="Wireframing" width="773" height="495">
 
