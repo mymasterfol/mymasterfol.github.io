@@ -1,14 +1,5 @@
-body {
-  font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
-  background-color: white;
-  padding: 30px;
-  color: #333;
-}
-## Hello,
+
+<span style="font-family:Papyrus; font-size:16em;">Hello,</span>
 ## Welcome to Joanne's Portfolio
 
 ### • View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
