@@ -1,5 +1,5 @@
 
-<span style="font-family:Papyrus; font-size:16em;">Hello,</span>
+<span style="font-family:Arial; font-size:16em;">Hello,</span>
 ## Welcome to Joanne's Portfolio
 
 ### • View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
