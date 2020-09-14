@@ -1,10 +1,19 @@
-<span style="color:white" "font-family:"helvetica">
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px;
+  color: #333;
+}
 ## Hello,
 ## Welcome to Joanne's Portfolio
 
 ### • View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
 
-### Sample Work</span>
+### Sample Work
 
 <img src="https://raw.githubusercontent.com/mymasterfol/mymasterfol.github.io/master/LitesOut-Wireframes.png" alt ="Wireframing" width="773" height="495">
 
