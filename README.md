@@ -1,5 +1,6 @@
 
 <span style="color:white"><span style="font-family:Papyrus; font-size:12em; color:white;">Hello,
+  
 Welcome to Joanne's Portfolio
 
 • View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)! •
