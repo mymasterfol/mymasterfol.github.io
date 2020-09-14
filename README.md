@@ -1,6 +1,7 @@
-### Joanne's Portfolio
+#### Hello,
+### Welcome to Joanne's Portfolio
 
-View my [resume](mymasterfol.github.io/JW-Resume.pdf)!
+View my [resume](https://mymasterfol.github.io/JW-Resume.pdf)!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
